@@ -1,4 +1,4 @@
-# data-crawling-cleansing-sentiment-analyst-and-correlation
+# Implementasi Naive Bayes untuk Analisis Sentimen cuitan dari pengguna Twitter terhadap pergerakan harga saham BBRI
 Data source: Sentiment twitter
 
 step to reproduce,
